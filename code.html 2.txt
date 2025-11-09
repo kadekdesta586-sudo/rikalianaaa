@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Romantis untuk Rikaliana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #ffcccc, #ff9999);
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #d63384;
+        }
+        .heart {
+            font-size: 50px;
+            color: red;
+        }
+        .message {
+            font-size: 18px;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Untuk Rikaliana, Cintaku yang Abadi</h1>
+    <div class="heart">❤️</div>
+    <div class="message">
+        <p>Rikaliana, kamu adalah cahaya dalam hidupku. Setiap detik bersamamu terasa seperti mimpi yang indah.</p>
+        <p>Aku mencintaimu lebih dari kata-kata bisa ungkapkan. Selamanya milikmu.</p>
+    </div>
+    <audio controls>
+        <source src="https://www.example.com/lagu-romantis.mp3" type="audio/mpeg">
+        Browser kamu tidak mendukung audio.
+    </audio>
+    <p>Ganti link audio di atas dengan lagu romantis favoritmu.</p>
+</body>
+</html>
